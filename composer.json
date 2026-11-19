@@ -1,5 +1,5 @@
 {
-  "name": "pocketmine/callback-validator",
+  "name": "altayofficial/callback-validator",
   "description": "Fork of daverandom/callback-validator - Tools for validating callback signatures",
   "license": "MIT",
   "authors": [
@@ -19,6 +19,7 @@
     "phpstan/phpstan-strict-rules": "^2.0"
   },
   "replace": {
+    "pocketmine/callback-validator": "self.version",
     "daverandom/callback-validator": "*"
   },
   "autoload": {

@@ -9,7 +9,7 @@ Since the upstream version has no release, it affects the composer stability of 
 
 ## Status
 
-![CI](https://github.com/pmmp/CallbackValidator/workflows/CI/badge.svg)
+![CI](https://github.com/altayofficial/CallbackValidator/workflows/CI/badge.svg)
 
 ## Usage
 
